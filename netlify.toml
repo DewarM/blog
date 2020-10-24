@@ -3,5 +3,5 @@
   command = "gatsby build --prefix-paths"
 
 
-[dev]
+[context.deploy-preview]
   command = "gatsby build"
