@@ -4,7 +4,7 @@
 
 
 [context.deploy-preview]
-  command = "gatsby build"
+  command = "gatsby build --prefix-paths"
 
 [[redirects]]
   from = "/blog"
