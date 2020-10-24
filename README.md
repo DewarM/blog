@@ -18,3 +18,7 @@ gatsby develop
 ```
 
 Now running at `http://localhost:8000`
+
+## Deploys
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/db791d7b-0d9b-425b-8f2a-1a520b068fb8/deploy-status)](https://app.netlify.com/sites/wonderful-euclid-55e127/deploys)
