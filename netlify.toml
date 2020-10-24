@@ -1,0 +1,7 @@
+[build]
+  # Default build command.
+  command = "gatsby build --path-prefix"
+
+
+[dev]
+  command = "gatsby build"
