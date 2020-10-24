@@ -1,6 +1,6 @@
 ---
 title: Poly-wha..?
-date: "2015-05-01T22:12:03.284Z"
+date: "2020-10-24T11:16:00.000Z"
 description: "An investigation into the javascript polyfill ecosystem"
 ---
 
