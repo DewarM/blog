@@ -1,6 +1,6 @@
 [build]
   # Default build command.
-  command = "gatsby build --path-prefix"
+  command = "gatsby build --prefix-paths"
 
 
 [dev]
