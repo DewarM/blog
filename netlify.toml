@@ -1,0 +1,7 @@
+[build]
+  # Default build command.
+  command = "gatsby build --prefix-paths"
+
+
+[context.deploy-preview]
+  command = "gatsby build"
