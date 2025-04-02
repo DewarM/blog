@@ -34,12 +34,6 @@ const Bio = () => {
       {author?.name && (
         <p>
           Published by <strong>{author.name}</strong> {author?.summary || null}
-          <a
-            style={{ display: "block" }}
-            href={`https://twitter.com/${social?.twitter || ``}`}
-          >
-            Twitter
-          </a>
           <a style={{ display: "block" }} href={`https://mungodewar.dev`}>
             Projects
           </a>
